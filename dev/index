@@ -10,7 +10,7 @@ dev.index.push(){
     git push origin
 }
 
-dev.xbash.publish(){
+dev.index.publish(){
     xrc std/http
     http.browse https://gitee.com/x-bash/index/pages
 }
